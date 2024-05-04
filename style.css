@@ -1,0 +1,20 @@
+body {
+    background-color: #082f34;
+}
+
+.nav {
+    border-color: blue !important;
+}
+
+.nav-link.active {
+    border-color: blue blue white !important;
+}
+
+.nav-link {
+    color: #082f34 !important;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    border-color: #082f34 !important;
+}
